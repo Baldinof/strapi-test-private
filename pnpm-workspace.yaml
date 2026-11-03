@@ -5,3 +5,8 @@ allowBuilds:
   better-sqlite3: true
   core-js-pure: true
   esbuild: true
+catalog:
+  "@strapi/database": "5.60.0"
+  "@strapi/plugin-cloud": "5.60.0"
+  "@strapi/plugin-users-permissions": "5.60.0"
+  "@strapi/strapi": "5.60.0"
